@@ -47,6 +47,6 @@ export const sampleProducts: Product[] = [
     brand: 'Nike',
     rating: 4.5,
     numReviews: 14,
-    description: 'high quality product'
-  }
+    description: 'high quality product',
+  },
 ]
